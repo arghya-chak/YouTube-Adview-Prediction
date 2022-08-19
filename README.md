@@ -1,2 +1,3 @@
-# YouTube-Adview-Prediction
-A Project which uses Machine Learning to predict views gotten by a YouTube Advertisement
+This Project makes use of various Machine Learning algorithms/models.
+
+A dataset was given consisting of various data related to YouTube videos, including the video id, likes, dislikes, comments, etc. A heatmap is first created to ascertain the amount of correlation among each criteria. Based on this, the data is trained on various models. The error in each model is compared, and the one showing least error is used to display the final prediction.
